@@ -9,6 +9,12 @@
 
 > 5G 信道 / 带宽锁定功能已经移除：在部分 ROM（如小米）上强改 `SoftApConfiguration` 会导致 hostapd 启动失败、热点打不开。
 
+## 下载
+
+- 已签名 APK：[v1.203 Release](https://github.com/Empty-City-L/SoftApHelper-Next/releases/tag/v1.203)
+- 完整源码包：[SoftApHelper-Next-v1.203-source.zip](https://github.com/Empty-City-L/SoftApHelper-Next/releases/download/v1.203/SoftApHelper-Next-v1.203-source.zip)（含 Gradle Wrapper）
+- 也可以在仓库页面 **Code → Download ZIP** 下载源码
+
 ## 使用
 
 1. 安装后在 LSPosed 里启用，作用域勾选**系统框架** + Tethering 相关包（模块已内置推荐作用域）。
